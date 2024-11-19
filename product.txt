@@ -1,0 +1,13 @@
+P010,Apple Watch Series 7,399.99,Apple,18
+P006,Mi Pad 5,499.99,Xiaomi,12
+P005,Galaxy Tab S7,649.99,Samsung,8
+P003,Mi 11,699.99,Xiaomi,20
+P002,Galaxy S21,799.99,Samsung,15
+P009,Mi Notebook Pro,999.99,Xiaomi,10
+P001,iPhone 13,999.99,Apple,10
+P004,iPad Pro,1099.99,Apple,5
+P008,Galaxy Book Pro,1199.99,Samsung,6
+P007,MacBook Air,1299.99,Apple,7
+P013,Isung,10000.0,Samsung,50
+P011,IphoneXS,20000.0,Apple,10
+P011,Iphone123,20000.0,Apple,13
